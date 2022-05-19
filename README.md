@@ -1,4 +1,10 @@
 # PlotNeuralNet
+---
+
+**This is a small fork to change some settings in `tikzgen.py` since I think it makes more sense like this.**
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2526396.svg)](https://doi.org/10.5281/zenodo.2526396)
 
 Latex code for drawing neural networks for reports and presentation. Have a look into examples to see how they are made. Additionally, lets consolidate any improvements that you make and fix any bugs to help more people with this code.
